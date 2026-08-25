@@ -1,2 +1,3 @@
 # birthday-celebration
-A beautiful birthday celebration website for Riddhi with interactive games, animations, and photo gallery - created by Agrim
+A beautiful birthday celebration website rwith interactive games, animations, and photo gallery 
+m
